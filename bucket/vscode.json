@@ -3,7 +3,7 @@
     "description": "Visual Studio Code is a lightweight but powerful source code editor which runs on your desktop and is available for Windows, macOS and Linux.",
     "version": "1.58.2",
     "url": "https://code.visualstudio.com/sha/download?build=stable&os=win32-x64-user",
-    "hash": "B2E4019C129765F5425E8FD9139A90C6200577754D5B35F8F83C2615F1644935",
+    "hash": "2415015457ccf4f6c77e71b995588c1656da1c03ccce3312f1cada2912860a7d",
     "bin": "Code.exe",
     "shortcuts": [
         [
